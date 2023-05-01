@@ -29,6 +29,11 @@
 </p>
 <br/>
 
+<p align="center">
+    <img title="Contributions2022" src="/images/contributions_private_repos_2021.png"/>
+</p>
+<br/>
+
 ## 📊 My Github Contributions for Public Repositories (Note: All the PRIVATE Repositories are HIDDEN!):
 <br/>
 <p align="center">
