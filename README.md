@@ -17,7 +17,17 @@
 <br/>
 <br/>
 
-## 📊 My Github Contributions for Public Repositories. (Note: All the PRIVATE Repositories are HIDDEN!):
+## 📊 My Github Contributions for Private Repositories:
+<br/>
+<p align="center">
+    <img title="Streaks" src="/images/contributions_private_repos.png"/>
+</p>
+
+<br/>
+<br/>
+
+
+## 📊 My Github Contributions for Public Repositories (Note: All the PRIVATE Repositories are HIDDEN!):
 <br/>
 <p align="center">
     <img title="Streaks" src="/images/streaks.png"/>
@@ -26,7 +36,7 @@
 <br/>
 <br/>
 
-## 📊 My Github Stats for Public Repositories. (Note: All the PRIVATE Repositories are HIDDEN!):
+## 📊 My Github Stats for Public Repositories (Note: All the PRIVATE Repositories are HIDDEN!):
 <br/>
 <p align="center">
         <img title="Stats" src="/images/stats.png"/>
@@ -34,7 +44,7 @@
 <br/>
 <br/>
 
-## 🐍 My Contribution Graph Snake-Animation for Public Repositories. (Note: All the PRIVATE Repositories are HIDDEN!):
+## 🐍 My Contribution Graph Snake-Animation for Public Repositories (Note: All the PRIVATE Repositories are HIDDEN!):
 ![snake gif](https://github.com/dr-patel/dr-patel/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
