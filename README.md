@@ -20,12 +20,14 @@
 ## 📊 My Github Contributions for Private Repositories:
 <br/>
 <p align="center">
-    <img title="Streaks" src="/images/contributions_private_repos.png"/>
+    <img title="Contributions2023" src="/images/contributions_private_repos_2023.png"/>
 </p>
-
-<br/>
 <br/>
 
+<p align="center">
+    <img title="Contributions2022" src="/images/contributions_private_repos_2022.png"/>
+</p>
+<br/>
 
 ## 📊 My Github Contributions for Public Repositories (Note: All the PRIVATE Repositories are HIDDEN!):
 <br/>
