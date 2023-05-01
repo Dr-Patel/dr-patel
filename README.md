@@ -34,7 +34,7 @@
 <br/>
 <br/>
 
-## 🐍 My Contribution Graph Snake-Animation for Public Repositories.(Note: All the PRIVATE Repositories are HIDDEN!):
+## 🐍 My Contribution Graph Snake-Animation for Public Repositories. (Note: All the PRIVATE Repositories are HIDDEN!):
 ![snake gif](https://github.com/dr-patel/dr-patel/blob/output/github-contribution-grid-snake.gif)
 
 <br/>
