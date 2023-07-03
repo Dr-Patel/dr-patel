@@ -9,7 +9,7 @@
 
 - ❤️  I’m currently working with **`Python`**.
 
-- 💬  Passionate for **`Python Tech-based Projects`, `Software Development`, `Application Development`, `Web Development`, `Data Structures & Algorithms`, ...**
+- 💬  Passionate for **`Python Tech-based Projects`, `Object-Oriented Programming`, `Software Development`, `Application Development`, `Web Development`, `Data Structures & Algorithms`, ...**
 
 - 📫  How to reach me **`Email: dbpatel8754@gmail.com`**
 
