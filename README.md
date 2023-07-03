@@ -11,7 +11,7 @@
 
 - 💬  Passionate for **`Python/Java/C# Tech-based Projects`, `Object-Oriented Programming`, `Software Development`, `Software Engineering`, `Application Development`, `Web Development`, `Data Structures & Algorithms`, ...**
 
-- 📫  How to reach me **`Email: dbpatel8754@gmail.com`**
+- 📫  How to reach me **`Email: dbpatel8754@gmail.com`, `LinkedIn: https://www.linkedin.com/in/dixit-patel-2050/`**
 
 - ⚡   Projects are **`Confidential`**. If you are a **`Recruiter or Hiring Manager`** who wishes to view them, I would kindly request to allow me to present them during an interview or a meeting. Thank you!
 <br/>
