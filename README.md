@@ -7,9 +7,9 @@
 <br/>
 <br/>
 
-- ❤️  I’m currently working with **`Python`**.
+<!--- ❤️ 💬 I’m currently working with **`Python`**.-->
 
-- 💬  Passionate for **`Python/Java/C# Tech-based Projects`, `Object-Oriented Programming`, `Software Development`, `Software Engineering`, `Application Development`, `Web Development`, `Data Structures & Algorithms`, ...**
+- ❤️  Passionate for **`Python/Java/C# Tech-based Projects`, `Object-Oriented Programming`, `Software Development`, `Software Engineering`, `Application Development`, `Web Development`, `Data Structures & Algorithms`, ...**
 
 - 📫  How to reach me **`Email: dbpatel8754@gmail.com`, `LinkedIn: https://www.linkedin.com/in/dixit-patel-2050/`**
 
